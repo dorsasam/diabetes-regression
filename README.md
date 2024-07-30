@@ -7,7 +7,7 @@ The process involves exploring the dataset, selecting relevant variables, analys
 ## Installation
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/diabetes-progression-prediction.git
+git clone https://github.com/dorsasam/diabetes-progression-prediction.git
 ```
 - Navigate to the project directory:
 ```bash
